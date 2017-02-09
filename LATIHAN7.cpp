@@ -2,9 +2,9 @@
 using namespace std;
 
 int main() {
-   typedef int raka;
+   typedef int Yanwar;
 
-   raka x;
+   Yanwar x;
 
    x = 10;
 
